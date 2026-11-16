@@ -10,13 +10,13 @@
   - уже в 1993 году для русскоязычной аудитории стал доступен перевод на русский язык книги С. Шлеер и С. Меллора «Объектно-ориентированный анализ: моделирование мира в состояниях». Фактически в книге представлен метод по-
 строения онтологии Предметной области.
 - Понятность онтологической модели как характеристика её качества [ontology-of-designing.ru](https://www.ontology-of-designing.ru/article/2021_1(39)/Ontology_Of_Designing_1_2021_3_obl-20-34_S.V.Mikoni_Comprehensibility_of_an_ontological_model_as_a_characteristic_of_its_quality.pdf)
-- Онтологией O называется О={C,R,A} https://studfile.net/preview/10996612/
+- [Онтологии — основа языков юридического программирования](https://zakon.ru/blog/2019/1/22/ontologii_-_osnova_yazykov_yuridicheskogo_programmirovaniya)
 
 ## history
 - https://www.lomonosov-fund.ru/enc/ru/encyclopedia:01399:article
 
 ## 4
 - МЕТОДЫ И СРЕДСТВА ФОРМИРОВАНИЯ И ИСПОЛЬЗОВАНИЯ ОНТОЛОГИЙ ПРОЕКТОВ В ПРОЦЕССЕ ПРОЕКТИРОВАНИЯ АВТОМАТИЗИРОВАННЫХ СИСТЕМ Диссертация: https://ulstu.ru/upload/iblock/a36/Diser05.pdf см. 2.2 Формальная структура онтологической модели проекта и процедура ее формирования
-
+- Онтологией O называется О={C,R,A} https://studfile.net/preview/10996612/
 ## 2
 Часто бытие путают с "Сущее" (существующее, Мир вещей) или с Миром идей
