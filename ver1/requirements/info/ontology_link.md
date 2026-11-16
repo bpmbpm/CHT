@@ -11,3 +11,6 @@
 строения онтологии Предметной области.
 - Понятность онтологической модели как характеристика её качества [ontology-of-designing.ru](https://www.ontology-of-designing.ru/article/2021_1(39)/Ontology_Of_Designing_1_2021_3_obl-20-34_S.V.Mikoni_Comprehensibility_of_an_ontological_model_as_a_characteristic_of_its_quality.pdf)
 - Онтологией O называется О={C,R,A} https://studfile.net/preview/10996612/
+
+## 2
+Часто бытие путают с "Сущее" (существующее, Мир вещей) или с Миром идей
