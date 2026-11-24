@@ -26,7 +26,10 @@ https://t.me/rusontology/16406
 ## 1.1
 1.1.1 по книжкам “методичкам” конечно етсь - и начать нужно с нее 
 
-Ontology Development 101 (Natalya Noy & Deborah McGuinness, Stanford) - абсолютная классика. простая, как топор - определи область -> переиспользуй чужое -> выпиши термины -> построй иерархию классов -> определи свойства -> задай ограничения -> наполни экземплярами
+Ontology Development 101 (Natalya Noy & Deborah McGuinness, Stanford) - абсолютная классика. простая, как топор - определи область -> переиспользуй чужое -> выпиши термины -> построй иерархию классов -> определи свойства -> задай ограничения -> наполни экземплярами  
+- https://protege.stanford.edu/publications/ontology_development/ontology101.pdf
+- https://www.researchgate.net/publication/243772462_Ontology_Development_101_A_Guide_to_Creating_Your_First_Ontology
+
 
 1.1.2 есть куча литературы на эти темы. вот сайт https://ontologforum.com/ но что-то лежит сейчас.
 
