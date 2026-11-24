@@ -41,7 +41,7 @@ Ontology Development 101 (Natalya Noy & Deborah McGuinness, Stanford) - абсо
 
  процитирую Левенчука из другой ветки https://t.me/typeslife/23544
 
- https://lexifina.com/blog/formalizing-taxation-across-38-nations
+Формализация налогообложения в 38 странах с использованием принципов бережливого производства. https://lexifina.com/blog/formalizing-taxation-across-38-nations
 
 грядёт применение HOL языков пруверов в онтологистике. у меня по этому поводу есть заметка https://www.linkedin.com/pulse/multilingual-ontologies-alex-shkotin-kymje
 
