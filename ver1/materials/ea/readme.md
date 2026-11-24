@@ -79,8 +79,9 @@ https://t.me/rusontology/16438
 Как поможет в этом "Панель управления онтологиями OBO Foundry" - не понял.
 
 ## 3.1 BFO
-Вот хороший (хоть и идеологически ограниченный) рецепт Basic Formal Ontology 2.0 https://t.me/rusontology/16501  
-референс к этому рецепту https://t.me/rusontology/16502
+https://dashboard.obofoundry.org/ К нему? 
+- Вот хороший (хоть и идеологически ограниченный) рецепт Basic Formal Ontology 2.0 https://t.me/rusontology/16501  
+- референс к этому рецепту https://t.me/rusontology/16502
 
 
 
